@@ -31,3 +31,17 @@ This is a link to [my portfolio](https://github.com/CodeCary80/resume2).
 ## Images
 
 ![Flag](./canada.png)
+
+## Code
+
+We can put inline code by using a tic.
+
+To add an image use an '<img>' tag.
+
+You can add multi-line code by using three tics and the name of the coding languages:
+
+```javascript
+function test(){
+    console.log("test");
+}
+```
