@@ -27,3 +27,7 @@ This is an unordered list:
 ## Links
 
 This is a link to [my portfolio](https://github.com/CodeCary80/resume2).
+
+## Images
+
+![Flag](./canada.png)
