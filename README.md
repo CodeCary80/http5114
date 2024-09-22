@@ -1,3 +1,31 @@
+# Workshops in Web Dev 1
+
+We will learn : 
+- How to create repos in Github
+- How to edit markdown
+- How to use Github in a group
+- Code JavaScript from scratch
+- Use a deployment to share hosting environment and demo deployment to GCP and AWS
+- Build an input/output device using LEGO Spike
+- Build HTML portfolio
+- Introduction to APIs and the open weather map
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Markdown Demo
 
 This is an example markdown document
