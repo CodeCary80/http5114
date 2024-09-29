@@ -5,7 +5,7 @@
 
 This course teaches you about academic integrity, GitHub, Markdown, deployment, Stack Overflow, personal websites, media accessibility, project pitching, stand-up meetings, mockups, Docker, and creating a final project and portfolio.
 
-This is a link to the class[http1554](https://humber.ca/transferoptions/course-outlines/outline.html?code=HTTP%205114&view=1&year=2024)
+This is a link to the class : [http5114](https://humber.ca/transferoptions/course-outlines/outline.html?code=HTTP%205114&view=1&year=2024)
 
 ## Code Sample
 
@@ -20,7 +20,7 @@ This is a link to the class[http1554](https://humber.ca/transferoptions/course-o
 # Github Flavour
 
 >[!Note]
-> This is a note!
+> Professor Adam Thomas makes learning enjoyable with their fun approach and is incredibly patient, ensuring every student feels supported!
 
 
 
