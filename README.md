@@ -3,7 +3,20 @@
 
 ![course outline](course%20outline.png)
 
-This course teaches you about academic integrity, GitHub, Markdown, deployment, Stack Overflow, personal websites, media accessibility, project pitching, stand-up meetings, mockups, Docker, and creating a final project and portfolio.
+
+## Learning Outcomes
+ - Integrity
+ - GitHub
+ - Markdown
+ - Deployment
+ - Stack Overflow
+ - Personal websites
+ - Media accessibility
+ - Project pitching
+ - Stand-up meetings
+ - Mockups
+ - Docker
+ - Create a final project and portfolio
 
 This is a link to the class : [http5114](https://humber.ca/transferoptions/course-outlines/outline.html?code=HTTP%205114&view=1&year=2024)
 
