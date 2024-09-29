@@ -1,50 +1,12 @@
-# Markdown Demo
+# HTTP 5114 
 
-This is an example markdown document
+![course outline](course%20outline.png)
 
-make a change!
+This course teaches you about academic integrity, GitHub, Markdown, deployment, Stack Overflow, personal websites, media accessibility, project pitching, stand-up meetings, mockups, Docker, and creating a final project and portfolio.
 
-This text is **bold**
+This is a link to the class[http1554](https://humber.ca/transferoptions/course-outlines/outline.html?code=HTTP%205114&view=1&year=2024)
 
-This text is _italics_
-
-This text is **_bold abd italics_**
-
-## lists
-
-This is an ordered list:
-
-1. Item number One
-2. Item number Two
-3. Item number Three
-
-This is an unordered list:
-
-- Item number One
-- Item number Two
-- Item number Three
-
-## Links
-
-This is a link to [my portfolio](https://github.com/CodeCary80/resume2).
-
-## Images
-
-![Flag](./canada.png)
-
-## Code
-
-We can put inline code by using a tic.
-
-To add an image use an 'img' tag.
-
-You can add multi-line code by using three tics and the name of the coding languages:
-
-```javascript
-function test(){
-    console.log("test");
-}
-```
+## Code Sample
 
 ## Tables
 
