@@ -22,7 +22,7 @@ function previous(){
 }
 function next(){
     current++;
-    if(current >= 0){
+    if(current >= total){
         current = 0;
     }
     //Create a reference to all the slide divs
